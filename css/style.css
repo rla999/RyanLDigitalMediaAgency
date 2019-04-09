@@ -12,6 +12,17 @@ Footer
 
 */
 
+/* Color Scheme
+https://coolors.co/272932-4d7ea8-c3e2c3-7fc6a4-edcb96
+Off Black - #272932
+Light Blue - #4D7EA8
+Light Beige - #C3E2C3
+Light Green - #7FC6A4
+Peach Orange - #EDCB96
+
+Light Slate Gray - Header
+*/
+
 /* CSS RESETS */
 
 * {
@@ -19,6 +30,7 @@ Footer
 }
 
 html, body {
+    height: 100%;
     margin: 0;
 }
 
@@ -38,6 +50,10 @@ img {
 /* HEADER END */
 
 /* MAIN SECTION */
+
+main {
+    
+}
 
 /* MAIN END */
 
