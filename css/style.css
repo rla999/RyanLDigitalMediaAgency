@@ -26,17 +26,18 @@ Light Slate Gray - Header
 /* CSS RESETS */
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-html, body {
-    height: 100%;
-    margin: 0;
+html,
+body {
+  height: 100%;
+  margin: 0;
 }
 
 img {
-    height: auto;
-    width: 100%;
+  height: auto;
+  width: 100%;
 }
 
 /* CSS RESETS END */
@@ -51,8 +52,8 @@ img {
 
 /* MAIN SECTION */
 
-main {
-    
+.center-nav {
+  display: flex;
 }
 
 /* MAIN END */
